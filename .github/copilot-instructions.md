@@ -53,7 +53,9 @@
 
 ## Code Review
 
-Label code review comments as following or violating best practices for Next.js, React, and TypeScript
+- When performing a code review, respond in Japanese.
+- Use single quotes for strings.
+- Use arrow functions for callbacks.
 
 ---
 
