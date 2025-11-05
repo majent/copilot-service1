@@ -51,12 +51,6 @@
 - **Static Assets:** Place in `public/` directory
   -- **No custom rules or agent docs**: This file is the primary AI agent guide
 
-## Code Review
-
-- When performing a code review, respond in Japanese.
-- Use single quotes for strings.
-- Use arrow functions for callbacks.
-
 ---
 
 For more, see `README.md` or Next.js docs: https://nextjs.org/docs
