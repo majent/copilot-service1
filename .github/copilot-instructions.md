@@ -53,7 +53,7 @@
 
 ## Code Review
 
-put 'good' or 'bad' on comments based on best practices for Next.js, React, and TypeScript.
+Label code review comments as following or violating best practices for Next.js, React, and TypeScript
 
 ---
 
