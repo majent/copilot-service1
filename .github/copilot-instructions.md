@@ -51,6 +51,10 @@
 - **Static Assets:** Place in `public/` directory
   -- **No custom rules or agent docs**: This file is the primary AI agent guide
 
+## Code Review
+
+Label code review comments as following or violating best practices for Next.js, React, and TypeScript
+
 ---
 
 For more, see `README.md` or Next.js docs: https://nextjs.org/docs
