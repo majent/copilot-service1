@@ -53,7 +53,7 @@
 
 ## Code Review
 
-Apply the [code review instructions](../../../.github/instructions/code-review-instructions.md) to all code.
+Apply the [code review instructions](https://github.com/majent/copilot/.github/instructions/code-review-instructions.md) to all code.
 
 ---
 
