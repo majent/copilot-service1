@@ -51,10 +51,6 @@
 - **Static Assets:** Place in `public/` directory
   -- **No custom rules or agent docs**: This file is the primary AI agent guide
 
-## Code Review
-
-Apply the [code review guidelines](.github/instructions/code-review.instructions.md)
-
 ---
 
 For more, see `README.md` or Next.js docs: https://nextjs.org/docs
