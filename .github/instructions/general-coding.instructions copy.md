@@ -10,6 +10,14 @@ applyTo: '**'
 - Always use clear and consistent naming conventions
 - Prefer simple structures with minimal nesting (prefer early returns)
 
+### Domain-Driven Design
+
+- Design around the business domain, not technical layers
+- Use domain language consistently in code, documentation, and discussions (ubiquitous language)
+- Define clear bounded contexts and keep domain logic independent between them
+- Model entities, value objects, and aggregates explicitly to reflect real-world concepts
+- Keep domain logic free from infrastructure or framework dependencies
+
 ### Efficiency
 
 - Avoid unnecessary loops, recalculations, and redundant processing
@@ -18,7 +26,7 @@ applyTo: '**'
 
 ### Maintainability
 
-- Reuse existing domain or utility functions to keep business logic consistent and avoid duplication.
+- Reuse existing utilities or shared functions instead of duplicating logic
 - Ensure code can be modified without affecting unrelated modules
 - Ensure functions and modules are easily testable
 - Always log errors with contextual information
