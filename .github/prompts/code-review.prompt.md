@@ -61,11 +61,21 @@ Overview of the code changes, including the purpose of the feature, any relevant
 # Suggestions
 
 ## ${code_review_emoji} ${Summary of the suggestion, include necessary context to understand suggestion}
-* **Priority**: ${priority: (🔥/⚠️/🟡/🟢)}
-* **File**: ${relative/path/to/file:line_number}
-* **Details**: ...
-* **Example** (if applicable): ...
-* **Suggested Change** (if applicable): (code snippet...)
+
+**Priority**:
+${priority: (🔥/⚠️/🟡/🟢)}
+
+**File**:
+${relative/path/to/file:line_number}
+
+**Details**:
+...
+
+**Example** (if applicable):
+...
+
+**Suggested Change** (if applicable):
+ (code snippet...)
 
 ## (other suggestions...)
 ...
